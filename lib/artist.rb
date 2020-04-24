@@ -12,3 +12,4 @@ class Artist
   
   def add 
 end
+end
